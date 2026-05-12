@@ -1,3 +1,5 @@
+CREATE DATABASE mp_gym;
+
 create table membre(
     id_membre serial primary key,
     nom varchar(50) not null,
